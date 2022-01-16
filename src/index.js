@@ -1,3 +1,3 @@
-const ajs = require('@netology-code/ajs');
+const ajs = require('@sergl82/ajs-platform');
 
 console.log(ajs.info());
