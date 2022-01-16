@@ -1,0 +1,23 @@
+{
+  "name": "ajs-platform-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sergl82/ajs-platform-clone.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sergl82/ajs-platform-clone/issues"
+  },
+  "homepage": "https://github.com/Sergl82/ajs-platform-clone#readme",
+  "dependencies": {
+    "@sergl82/ajs-platform": "^1.0.0"
+  }
+}
